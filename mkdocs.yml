@@ -44,11 +44,10 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/linkedin
-      link: 
+      link: https://ar.linkedin.com/company/grupologisticoandreani
       name: Andreani en Linkedin
-  social:
     - icon: fontawesome/brands/instagram
-      link: 
+      link: https://www.instagram.com/andreaniok/
       name: Andreani en Instagram
 
 plugins:
