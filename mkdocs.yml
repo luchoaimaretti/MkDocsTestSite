@@ -1,0 +1,80 @@
+site_name: Novedades Web
+
+theme:
+  name: material
+  language: es
+  logo: assets/logo.png
+  favicon: assets/logo.png
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - navigation.top
+  palette:
+    # Switch para modo claro
+    - media: "(prefers-color-scheme: light)"
+      primary: deep orange
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Switch para modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Inicio: index.md
+  - Documentacion:
+      - Funcional: funcional.md
+      - No Funcional: noFuncional.md
+  - Requerimientos:
+      - Tablas - Contrato con la api: Requerimientos/tablaContratoApi.md
+      - Reunion Lean/Juli: Requerimientos/reunionLJ.md
+  - Interfaces: interfaces.md
+  - Diagrama de API's: diagramaApis.md
+
+repo_url: https://github.com/customer-experience/novedades-web.git
+repo_name: Repository
+
+copyright: Copyright &copy; 2022 Luciano Aimaretti
+extra:
+  generator: false
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: 
+      name: Andreani en Linkedin
+  social:
+    - icon: fontawesome/brands/instagram
+      link: 
+      name: Andreani en Instagram
+
+plugins:
+  - search
+  - glightbox
+  - i18n:
+      default_language: es
+      languages:
+        es: Spanish
+        en: English
+        pt: Portuguese
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.details
+  - md_in_html
+  - attr_list
+  - admonition
+  - tables
