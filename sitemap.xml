@@ -37,15 +37,6 @@
          
     </url>
     <url>
-         <loc>noFuncional/</loc>
-         <lastmod>2022-09-09</lastmod>
-         <changefreq>daily</changefreq>
-         <xhtml:link rel="alternate" hreflang="es" href="es/noFuncional/"/>
-         <xhtml:link rel="alternate" hreflang="en" href="en/noFuncional/"/>
-         <xhtml:link rel="alternate" hreflang="pt" href="pt/noFuncional/"/>
-         
-    </url>
-    <url>
          <loc>Requerimientos/reunionLJ/</loc>
          <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
