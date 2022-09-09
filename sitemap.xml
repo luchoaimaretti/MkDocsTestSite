@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
          <loc>diagramaApis/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="es" href="es/diagramaApis/"/>
          <xhtml:link rel="alternate" hreflang="en" href="en/diagramaApis/"/>
@@ -11,7 +11,7 @@
     </url>
     <url>
          <loc>funcional/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="es" href="es/funcional/"/>
          <xhtml:link rel="alternate" hreflang="en" href="en/funcional/"/>
@@ -20,7 +20,7 @@
     </url>
     <url>
          <loc>.</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="es" href="es/"/>
          <xhtml:link rel="alternate" hreflang="en" href="en/"/>
@@ -29,7 +29,7 @@
     </url>
     <url>
          <loc>interfaces/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="es" href="es/interfaces/"/>
          <xhtml:link rel="alternate" hreflang="en" href="en/interfaces/"/>
@@ -38,7 +38,7 @@
     </url>
     <url>
          <loc>noFuncional/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="es" href="es/noFuncional/"/>
          <xhtml:link rel="alternate" hreflang="en" href="en/noFuncional/"/>
@@ -47,7 +47,7 @@
     </url>
     <url>
          <loc>Requerimientos/reunionLJ/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="es" href="es/Requerimientos/reunionLJ/"/>
          <xhtml:link rel="alternate" hreflang="en" href="en/Requerimientos/reunionLJ/"/>
@@ -56,7 +56,7 @@
     </url>
     <url>
          <loc>Requerimientos/tablaContratoApi/</loc>
-         <lastmod>2022-09-08</lastmod>
+         <lastmod>2022-09-09</lastmod>
          <changefreq>daily</changefreq>
          <xhtml:link rel="alternate" hreflang="es" href="es/Requerimientos/tablaContratoApi/"/>
          <xhtml:link rel="alternate" hreflang="en" href="en/Requerimientos/tablaContratoApi/"/>
